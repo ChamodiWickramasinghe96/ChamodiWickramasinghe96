@@ -16,11 +16,11 @@ I enjoy exploring applications, uncovering hidden issues, and ensuring everythin
 
 🚀 I’m driven by curiosity, precision, and the goal of delivering reliable and user-friendly software.
 
- 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChamodiWickramasinghe96&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodiWickramasinghe96&layout=compact&theme=tokyonight" />
-</p><!--
+</p>
 
 ## 🔗 Connect with Me
 - LinkedIn: ([add your link](https://www.linkedin.com/in/chamodi-wickramasinghe/))
