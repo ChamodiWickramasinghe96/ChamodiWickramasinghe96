@@ -17,18 +17,16 @@ I enjoy exploring applications, uncovering hidden issues, and ensuring everythin
 🚀 I’m driven by curiosity, precision, and the goal of delivering reliable and user-friendly software.
 
 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamodiWickramasinghe96&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodiWickramasinghe96&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ## 🔗 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/chamodi-wickramasinghe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
   <a href="chamodi1002@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
- 
+  </a>
 </div>
 
