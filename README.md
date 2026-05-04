@@ -16,11 +16,6 @@ I enjoy exploring applications, uncovering hidden issues, and ensuring everythin
 
 🚀 I’m driven by curiosity, precision, and the goal of delivering reliable and user-friendly software.
 
-📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
@@ -40,7 +35,7 @@ I enjoy exploring applications, uncovering hidden issues, and ensuring everythin
 </div>
 
 ## 🔗 Connect with Me
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/chamodi-wickramasinghe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
